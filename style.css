@@ -1,3 +1,7 @@
-.left{
-    text-align: left
+.left {
+    text-align: justify!important;
+    background-color:#F8F9FA;
+}
+.oculto{
+     overflow: hidden!important;
 }
