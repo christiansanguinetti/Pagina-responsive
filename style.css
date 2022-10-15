@@ -8,3 +8,9 @@
 a{
     color:grey!important;
 }
+nav{
+    background-color: #6C757D;
+}
+nav div a{
+    color:white!important;
+}
